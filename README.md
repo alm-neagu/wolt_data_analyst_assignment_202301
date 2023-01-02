@@ -9,5 +9,5 @@
 **Folder structure**
 - Data: csv file with data from Wolt
 - Info: pdf file with the assignment details
-- Src: notebooks and files for explorative analysis
 - Presentation: final pdf presentation
+- Jupyter notebooks for the analysis
